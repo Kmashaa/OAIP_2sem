@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.157,D:\labs OAIP 2 sem\lab1\ind2\Polygon.h=D:\labs OAIP 2 sem\lab1\ind2\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.618,D:\Labs 2\Figure.h=D:\labs OAIP 2 sem\lab1\ind2\Figure.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.563,D:\Labs 2\Unit1.h=D:\labs OAIP 2 sem\lab1\ind2\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.171,D:\labs OAIP 2 sem\lab1\ind2\Circle.cpp=D:\labs OAIP 2 sem\lab1\ind2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,D:\labs OAIP 2 sem\lab1\ind2\Square.cpp=D:\labs OAIP 2 sem\lab1\ind2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.576,=D:\Labs 2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.065,=D:\Labs 2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.563,D:\Labs 2\Unit1.cpp=D:\labs OAIP 2 sem\lab1\ind2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,D:\labs OAIP 2 sem\lab1\ind2\Circle.h=D:\labs OAIP 2 sem\lab1\ind2\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.563,D:\Labs 2\Unit1.dfm=D:\labs OAIP 2 sem\lab1\ind2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.199,D:\Labs 2\Unit2.h=D:\Labs 2\Rectangle.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.096,D:\Labs 2\Unit2.h=D:\Labs 2\Figure.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,D:\labs OAIP 2 sem\lab1\ind2\Circle.cpp=D:\labs OAIP 2 sem\lab1\ind2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.618,D:\Labs 2\Figure.cpp=D:\labs OAIP 2 sem\lab1\ind2\Figure.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.576,D:\Labs 2\Rectangle.cpp=D:\labs OAIP 2 sem\lab1\ind2\Rectangle.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.171,D:\labs OAIP 2 sem\lab1\ind2\Circle.h=D:\labs OAIP 2 sem\lab1\ind2\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.576,D:\Labs 2\Rectangle.h=D:\labs OAIP 2 sem\lab1\ind2\Rectangle.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.780,=D:\Labs 2\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.409,D:\Labs 2\Project1.cbproj=D:\labs OAIP 2 sem\lab1\ind2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.186,=D:\Labs 2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.056,=D:\Labs 2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.738,D:\labs OAIP 2 sem\lab1\ind2\Ellipse.cpp=D:\labs OAIP 2 sem\lab1\ind2\Circle.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.738,D:\labs OAIP 2 sem\lab1\ind2\Ellipse.h=D:\labs OAIP 2 sem\lab1\ind2\Circle.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.788,D:\Labs 2\Project1PCH1.h=D:\labs OAIP 2 sem\lab1\ind2\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.446,=D:\Labs 2\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.665,=D:\labs OAIP 2 sem\lab1\ind2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.099,=D:\labs OAIP 2 sem\lab1\ind2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.553,=D:\labs OAIP 2 sem\lab1\ind2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,D:\labs OAIP 2 sem\lab1\ind2\Square.h=D:\labs OAIP 2 sem\lab1\ind2\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.096,D:\Labs 2\Unit2.cpp=D:\Labs 2\Figure.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.199,D:\Labs 2\Unit2.cpp=D:\Labs 2\Rectangle.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.157,D:\labs OAIP 2 sem\lab1\ind2\Polygon.cpp=D:\labs OAIP 2 sem\lab1\ind2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.791,=D:\labs OAIP 2 sem\lab1\ind2\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
