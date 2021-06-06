@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.614,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Main.h=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.668,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.304,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\HashTable.h=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.885,C:\Users\Admin\Desktop\С++\Labs\lab7\Stack.cpp=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Stack.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.304,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\HashTable.cpp=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.614,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Main.cpp=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.869,C:\Users\Admin\Desktop\С++\Labs\lab7\HashTable.h=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\HashTable.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.052,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\lab7.cbproj=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.614,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Main.dfm=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.963,C:\Users\Admin\Desktop\С++\Labs\lab7\lab7PCH1.h=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\lab7PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.885,C:\Users\Admin\Desktop\С++\Labs\lab7\Stack.h=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Stack.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.869,C:\Users\Admin\Desktop\С++\Labs\lab7\HashTable.cpp=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\HashTable.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.135,C:\Users\Admin\Desktop\С++\Labs\lab7\lab7.cbproj=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\lab7.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.725,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.745,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.934,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,C:\Users\Admin\Desktop\С++\Labs\lab7\Main.h=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,C:\Users\Admin\Desktop\С++\Labs\lab7\Main.dfm=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.606,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Stack.cpp=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,C:\Users\Admin\Desktop\С++\Labs\lab7\Main.cpp=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.606,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Stack.h=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.037,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\lab7PCH1.h=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
