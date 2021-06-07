@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.277,D:\labs OAIP 2 sem\lab5\MinMax.h=D:\Labs 2\MinMax.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.244,=D:\Labs 2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.065,=D:\Labs 2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.203,D:\labs OAIP 2 sem\lab5\Unit1.cpp=D:\Labs 2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.005,D:\labs OAIP 2 sem\lab5\Project1PCH1.h=D:\Labs 2\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.330,D:\Labs 2\Unit2.h=D:\Labs 2\MinMax.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.604,D:\Labs 2\Unit2.h=D:\Labs 2\List.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.203,D:\labs OAIP 2 sem\lab5\Unit1.dfm=D:\Labs 2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.156,D:\labs OAIP 2 sem\lab5\Project1.cbproj=D:\Labs 2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.358,D:\labs OAIP 2 sem\lab5\List.h=D:\Labs 2\List.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.196,=D:\Labs 2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.358,D:\labs OAIP 2 sem\lab5\List.cpp=D:\Labs 2\List.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.653,D:\Labs 2\Project1.cbproj=D:\Labs 2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.055,=D:\Labs 2\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.780,=D:\Labs 2\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.277,D:\labs OAIP 2 sem\lab5\MinMax.cpp=D:\Labs 2\MinMax.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.203,D:\labs OAIP 2 sem\lab5\Unit1.h=D:\Labs 2\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.604,D:\Labs 2\Unit2.cpp=D:\Labs 2\List.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.330,D:\Labs 2\Unit2.cpp=D:\Labs 2\MinMax.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.037,=D:\Labs 2\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
